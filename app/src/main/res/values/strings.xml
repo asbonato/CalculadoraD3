@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraD3</string>
+    <string name="valor1">inteiro 1</string>
+    <string name="operador">+ - * /</string>
+    <string name="valor2">inteiro 2</string>
+    <string name="igual">=</string>
+    <string name="resultado">resultado</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
