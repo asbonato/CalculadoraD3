@@ -1,4 +1,4 @@
-package br.saojudas.sdm21_1.calculadorad3;
+package br.saojudas.sdm21_1.calculadorad3.model;
 
 import org.junit.After;
 import org.junit.Before;

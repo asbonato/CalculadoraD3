@@ -1,4 +1,4 @@
-package br.saojudas.sdm21_1.calculadorad3;
+package br.saojudas.sdm21_1.calculadorad3.presenter;
 
 import org.junit.Before;
 import org.junit.Test;
